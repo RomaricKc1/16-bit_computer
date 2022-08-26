@@ -160,6 +160,10 @@ The location for the program, the stack and the variable location.
 # DISPLAY
 ```128 x 64``` dot display using monochrome 4-bit as color. This makes up to a LCD with aspect ration ```21:7``` with hardware set cursor method.
 
+
+Default color ```black```. Write logical ```1``` and then ```0``` to the ```reset``` pin to set it on ready mode (black color).
+
+
 Displays a content of RAM. 
 
 To display a ```letter``` simply put the ASCII code of the char. 
