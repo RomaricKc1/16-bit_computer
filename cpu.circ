@@ -1429,6 +1429,9 @@
     <comp lib="0" loc="(310,2200)" name="Constant">
       <a name="width" val="16"/>
     </comp>
+    <comp lib="0" loc="(3100,240)" name="Pin">
+      <a name="appearance" val="classic"/>
+    </comp>
     <comp lib="0" loc="(3100,490)" name="Tunnel">
       <a name="label" val="y"/>
       <a name="width" val="3"/>
@@ -3642,6 +3645,8 @@ b4 400 14*0 374 3bc 400 13*0 2c
     <wire from="(310,1650)" to="(310,1830)"/>
     <wire from="(310,1650)" to="(330,1650)"/>
     <wire from="(310,2200)" to="(350,2200)"/>
+    <wire from="(3100,240)" to="(3130,240)"/>
+    <wire from="(3130,230)" to="(3130,240)"/>
     <wire from="(3130,270)" to="(3140,270)"/>
     <wire from="(3140,230)" to="(3140,270)"/>
     <wire from="(3140,300)" to="(3150,300)"/>
