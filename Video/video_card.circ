@@ -286,6 +286,7 @@ e 8*0 e 11 11 11 f 1
     </comp>
     <comp lib="0" loc="(140,310)" name="Pull Resistor">
       <a name="facing" val="north"/>
+      <a name="pull" val="1"/>
     </comp>
     <comp lib="0" loc="(160,220)" name="Tunnel">
       <a name="label" val="WE"/>
