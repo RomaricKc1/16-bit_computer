@@ -4,7 +4,7 @@
 
 To program : 
 Generate the machine code using tool provided from by this repo: [Customasm](https://github.com/hlorenzi/customasm) on this webpage [machine code](https://hlorenzi.github.io/customasm/web/).
-Remove default program and paste the content of [assembler](assembler/customasm.asm) there.
+Remove default program and paste the content of [assembler](Assembler/customasm.asm) there.
 You can then modify the application using simple ```mnemonics```.
 
 Select LogiSim 16-bit and hit the assemble to generate the machine code. This hex conten, then goes to the ```CPU``` RAM memory.
